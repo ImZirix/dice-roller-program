@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+body {
+    background-color: #455763;
+}
+.container {
+    text-align: center;
+    background-color: #d3dadc;
+}
+#diceImg img{
+    width: 100px;
+    margin: 10px;
+}
+#result {
+    margin: 10px;
+}
